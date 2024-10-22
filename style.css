@@ -1,0 +1,12 @@
+body {
+	overflow: hidden;
+	margin: 0;
+	height: 100%;
+}
+h1 {
+	position: absolute;
+	left:50%;
+	transform: translateX(-50%);
+  font-family: Sans-serif;
+	font-weight: lighter;
+}
